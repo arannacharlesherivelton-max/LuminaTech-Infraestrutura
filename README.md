@@ -1,27 +1,39 @@
 # Lumina Tech Infraestrutura — Site Institucional
 
-Site institucional responsivo, moderno e pronto para publicação.
+# LUMINA TECH INFRAESTRUTURA
 
-## Estrutura
-- `index.html` — página principal
-- `style.css` — identidade visual, layout e responsividade
-- `script.js` — menu mobile, animações e interações
-- `assets/logo-lumina-tech.png` — logo utilizada no site
+### Conectando sua operação ao futuro.
 
-## Formulário
-O formulário está configurado para o **FormSubmit** e utiliza:
-`arannacharlesherivelton@gmail.com`
+A **Lumina Tech Infraestrutura** é uma empresa de tecnologia especializada em **infraestrutura de TI, redes, conectividade, segurança e soluções tecnológicas**, desenvolvendo projetos personalizados para empresas, comércios, condomínios e clientes que buscam ambientes mais organizados, seguros, estáveis e preparados para crescer.
 
-### Antes de publicar
-1. Abra `index.html`.
-2. Procure o campo `_next`.
-3. Troque `https://example.com/obrigado.html` pela URL real da página de confirmação do seu site.
-4. No primeiro envio, o FormSubmit pode solicitar a confirmação do endereço de destino.
+Nosso trabalho vai além da instalação de equipamentos. **Analisamos o cenário, projetamos a solução, executamos a implantação e estruturamos a tecnologia para acompanhar a evolução do negócio.**
 
-> Para produção empresarial, recomenda-se substituir o FormSubmit por um endpoint próprio, serviço transacional ou backend/API com políticas de privacidade e proteção de dados adequadas.
+### Nossas principais soluções
 
-## Publicação
-Pode ser publicado em GitHub Pages, Netlify, Vercel ou hospedagem tradicional.
+* **Redes corporativas e Wi-Fi**
+* **Cabeamento estruturado CAT5e/CAT6**
+* **Fibra óptica e conectividade**
+* **Racks, switches e organização de infraestrutura**
+* **Servidores e infraestrutura de TI**
+* **Sistemas de monitoramento e segurança**
+* **Configuração e otimização de redes**
+* **Automação e soluções com Inteligência Artificial**
+* **Projetos tecnológicos personalizados**
+* **Manutenção e evolução de infraestrutura**
 
-## Observação de LGPD
-O formulário coleta somente dados necessários ao atendimento. A política de privacidade e os textos legais devem ser ajustados às operações reais da empresa antes da publicação definitiva.
+### Nosso diferencial
+
+A Lumina Tech trabalha com uma visão de **infraestrutura 360°**, considerando não apenas o funcionamento atual do ambiente, mas também sua **segurança, organização, desempenho, manutenção e possibilidade de expansão**.
+
+> **Diagnóstico → Projeto → Implantação → Evolução**
+
+### Nossa visão
+
+Construir uma marca reconhecida pela **qualidade técnica, confiabilidade, inovação e capacidade de execução**, tornando a tecnologia uma base estratégica para nossos clientes.
+
+### Nosso posicionamento
+
+**LUMINA TECH INFRAESTRUTURA**
+**Tecnologia • Conectividade • Segurança • Inovação**
+
+**“Infraestrutura que conecta. Tecnologia que evolui.”**

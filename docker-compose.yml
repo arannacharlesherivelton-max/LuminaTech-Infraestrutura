@@ -1,0 +1,7 @@
+services:
+  lumina-tech:
+    build: .
+    container_name: lumina-tech-infraestrutura
+    restart: unless-stopped
+    ports:
+      - "8080:80"
